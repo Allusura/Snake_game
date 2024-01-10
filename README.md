@@ -10,3 +10,10 @@
 # More usages of the Turtle Library.
 # Inheritance
 # Slicing tuples & Lists
+
+#Updated things I learned today (10/01/2024):
+
+# How to save items to a .txt file
+# How to access .txt files in Python
+# How to read and use .txt files in Python
+# Usefullness of using .txt files in Python
